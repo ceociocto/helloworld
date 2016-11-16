@@ -10,4 +10,4 @@
 
 设置 - VPN - 添加VPN配置 - 
 
-![Image of ss](https://github.com/ceociocto/helloworld/blob/master/setup.jpg)
+![Image of ss](https://github.com/ceociocto/helloworld/blob/master/setup.png)
